@@ -11,7 +11,7 @@ Github: jrmph
 
 ## Project Description
 
-This program is a menu-driven Python application that allows the user to manage a list of student scores. It provides basic operations such as viewing scores, counting passing students, finding the highest and lowest values, searching for a score, inserting new data, and deleting existing data. The program also includes simple loading animations and a formatted console interface for better user experience.
+This program is a menu optional Python application that allows the user to manage a list of student scores. It provides basic operations such as viewing scores, counting passing students, finding the highest and lowest values, searching for a score, inserting new data, and deleting existing data. The program also includes simple loading animations and a formatted console interface for better user experience.
 
 ---
 
